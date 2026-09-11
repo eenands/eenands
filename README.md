@@ -10,25 +10,11 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/osaintzs">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtube.com/@eenands">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/eenands">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linktr.ee/eenands">
-    <img src="https://cdn.simpleicons.org/linktree/43E660" width="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/1477064823748432060">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="30">
-  </a>
+  <a href="https://instagram.com/osaintzs"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UConuyhLzS34YBsdvFbU35kQ"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="30"></a>&nbsp;&nbsp;
+  <a href="https://github.com/eenands"><img src="https://cdn.simpleicons.org/github/white" width="30"></a>&nbsp;&nbsp;
+  <a href="https://linktr.ee/eenands"><img src="https://cdn.simpleicons.org/linktree/43E55E" width="30"></a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/1477064823748432060"><img src="https://cdn.simpleicons.org/discord/5865F2" width="30"></a>
 </p>
 
 ## 🔗 Know About Me
