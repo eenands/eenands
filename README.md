@@ -19,7 +19,7 @@
 
 ## 🔗 Know About Me
 
-> I'm nands — a developer and editor who likes turning ideas into things that actually exist.
+> I'm Guilherme F.S. — a developer and editor who likes turning ideas into things that actually exist.
 > Inspired by Spider-Man: always learning, always building, always swinging back after a bug. 🕸️
 
 - 🕷️ Currently building **[WebSenses](https://websenses.netlify.app)**, a real-time 2D GPS inspired by the Spider-Tracker
