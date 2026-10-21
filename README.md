@@ -2,7 +2,7 @@
   <img src="./banner.jpg" width="100%">
 </p>
 
-<h1 align="center">Hey 👋 I'm nands</h1>
+<h1 align="center">Hey 👋 I'm Guilherme F.S.</h1>
 
 <h3 align="center">Developer & Editor • Building WebSenses • São Paulo, BR</h3>
 
